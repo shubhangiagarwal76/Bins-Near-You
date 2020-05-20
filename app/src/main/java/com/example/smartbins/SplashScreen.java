@@ -19,7 +19,7 @@ public class SplashScreen extends AppCompatActivity {
                 startActivity(i);
                 finish();
             }
-        }, 3000); //DELLAY TIME OF SPLASH SCREEN
+        }, 1500); //DELLAY TIME OF SPLASH SCREEN
     }
 }
 
